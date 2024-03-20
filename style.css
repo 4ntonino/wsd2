@@ -2,3 +2,14 @@ img {
     height: 225px;
     width: 100%;
 }
+
+#card-textDiv{
+    width: 20px !important;
+    background-color: red;
+}
+
+#title{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
